@@ -1,0 +1,6 @@
+transformer_chatbot/
+├── chatbot.py                 # Core logic to interact with DialoGPT
+├── app.py                     # (Optional) Streamlit UI
+├── requirements.txt
+├── README.md
+└── .gitignore
